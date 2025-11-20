@@ -1,14 +1,11 @@
 <p align="center">Trusted / Jodi</p>
 
 <p align="center">
-  <a href="https://devious-duo.straw.page/">Strawpage</a> -
-  <a href="https://trusted.atabook.org/">Atabook</a> -
-  <a href="https://x.com/TrvstedCreators">Twitter</a> -
+  <a href="https://devious-duo.straw.page/">Strawpage</a> .
+  <a href="https://trusted.atabook.org/">Atabook</a> .
+  <a href="https://x.com/TrvstedCreators">Twitter</a> .
   <a 
      </p>
-     
-   [strawpage](https://devious-duo.straw.page/)    .  [atabook](https://trusted.atabook.org/)  .   [twitter](https://x.com/TrvstedCreators) 
-
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/fd6a1872-ae5e-48d9-b181-0bbff0576372">

@@ -8,11 +8,11 @@
      </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/fd6a1872-ae5e-48d9-b181-0bbff0576372">
+<img src="https://github.com/user-attachments/assets/fd6a1872-ae5e-48d9-b181-0bbff0576372"/>
 </p>
 
-
-![](https://komarev.com/ghpvc/?username=J0DlO&label=Stand+Users)
+  <p align="center">
+<img src="https://komarev.com/ghpvc/?username=J0DlO&label=Stand+Users)
 
 <p align="center">Jodio heavykin</p>
 <p align="center">JOJOLANDS FANS INT PLEASE</p>

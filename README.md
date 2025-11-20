@@ -1,7 +1,7 @@
 <p align="center">Trusted / Jodi</p>
 
 
-   [strawpage](https://devious-duo.straw.page/)    .  [atabook](https://trusted.atabook.org/)  .   [twitter](https://x.com/TrvstedCreators) . ![](https://komarev.com/ghpvc/?username=J0DlO&label=STAND+USERS)
+   [strawpage](https://devious-duo.straw.page/)    .  [atabook](https://trusted.atabook.org/)  .   [twitter](https://x.com/TrvstedCreators) 
 
 
 <p align="center">

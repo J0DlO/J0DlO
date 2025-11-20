@@ -1,7 +1,7 @@
 <p align="center">Trusted / Jodi</p>
 
 <p align="center">
- "[strawpage](https://devious-duo.straw.page/)    .  [atabook](https://trusted.atabook.org/)  .   [twitter](https://x.com/TrvstedCreators)"
+ [strawpage](https://devious-duo.straw.page/)    .  [atabook](https://trusted.atabook.org/)  .   [twitter](https://x.com/TrvstedCreators)
 </p>
 
 <p align="center">

@@ -14,7 +14,8 @@
 
 ![](https://komarev.com/ghpvc/?username=J0DlO&label=Stand+Users)
 
-
+<p align="center">Jodio heavykin</p>
+<p align="center">JOJOLANDS FANS INT PLEASE</p>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f78f4fdd-75da-461d-902b-89d6e7ef25cc">

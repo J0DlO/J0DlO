@@ -1,8 +1,8 @@
 <p align="center">Trusted / Jodi</p>
 
-<p align="center">
- [strawpage](https://devious-duo.straw.page/)    .  [atabook](https://trusted.atabook.org/)  .   [twitter](https://x.com/TrvstedCreators)
-</p>
+
+ :-: [strawpage](https://devious-duo.straw.page/)    .  [atabook](https://trusted.atabook.org/)  .   [twitter](https://x.com/TrvstedCreators) :-:
+
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/fd6a1872-ae5e-48d9-b181-0bbff0576372">

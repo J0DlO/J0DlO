@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/fd6a1872-ae5e-48d9-b181-0bbff0576372">
 </p>
-
+antonkomarev/github-profile-views-counter
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f78f4fdd-75da-461d-902b-89d6e7ef25cc">
 </p>

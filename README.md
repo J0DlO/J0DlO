@@ -12,7 +12,7 @@
 </p>
 
   <p align="center">
-<img src="https://komarev.com/ghpvc/?username=J0DlO&label=Stand+Users)
+<img src="https://komarev.com/ghpvc/?username=J0DlO&label=Stand+Users"/>
 
 <p align="center">Jodio heavykin</p>
 <p align="center">JOJOLANDS FANS INT PLEASE</p>

@@ -1,4 +1,4 @@
-<p align="center"> Trusted / Jodi
+<p align="center">Trusted / Jodi</p>
 
 [strawpage](https://devious-duo.straw.page/)    .  [atabook](https://trusted.atabook.org/)  .   [twitter](https://x.com/TrvstedCreators)
 

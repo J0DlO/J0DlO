@@ -1,6 +1,6 @@
 Trusted / Jodi
 
-![Image](https://github.com/133c4083-b019-4cb2-85fc-12687ed65630)
+![Image](https://github.com/fa21262b-3517-4f95-92d5-c70fe24b0c84)
 
 kala
 

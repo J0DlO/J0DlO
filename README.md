@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://devious-duo.straw.page/">Strawpage</a> .
   <a href="https://trusted.atabook.org/">Atabook</a> .
-  <a href="https://x.com/TrvstedCreators">Twitter</a> .
+  <a href="https://x.com/TrvstedCreators">Twitter</a> 
   <a 
      </p>
 
@@ -11,8 +11,8 @@
 <img src="https://github.com/user-attachments/assets/fd6a1872-ae5e-48d9-b181-0bbff0576372">
 </p>
 
-
- ![](https://komarev.com/ghpvc/?username=J0DlO&label=STAND+USERS)
+<p align="center">
+ <a href=![](https://komarev.com/ghpvc/?username=J0DlO&label=STAND+USERS)/ a>
 
 
 <p align="center">

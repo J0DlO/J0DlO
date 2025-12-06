@@ -19,7 +19,7 @@
 <p align="center">JOJOLANDS FANS INT PLEASE</p>
 <p align="center">Read strawpage for more info im too lazy to put it on here</p>
 <p align="center">Do not copy or take inspo, JJBA fandom c+h enc</p>
-<p align="center">Gift me skins, I freaking love free stuff yo</p>
+<p align="center">Jonadio shippers and Diejoni haters dni ok</p>
 <p align="center">@Jjba tiktok, please stop with the Jodio mango phonk edits.</p>
 <p align="center">Lifesteal lane resident JJBA pony</p>
 

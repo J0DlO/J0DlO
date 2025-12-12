@@ -5,7 +5,8 @@
   <a href="https://trusted.atabook.org/">Atabook</a> .
   <a href="https://x.com/TrvstedCreators">Twitter</a> .
   <a href="https://rentry.co/november-rain">Rentry</a> .
-  <a href="https://colormytree.me/2025/01KB91CWVPRZK0BF9PQTFD6WKT">Tree</a>
+  <a href="https://colormytree.me/2025/01KB91CWVPRZK0BF9PQTFD6WKT">Tree</a> .
+  <a href="https://guns.lol/jodiojoestar">Guns.lol</a>
   <a 
      </p>
 
